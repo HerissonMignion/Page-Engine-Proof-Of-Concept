@@ -1,0 +1,15 @@
+D:\VisualStudio2017Project\PageEnginePOC\PageEnginePOC\bin\Debug\PageEnginePOC.exe.config
+D:\VisualStudio2017Project\PageEnginePOC\PageEnginePOC\bin\Debug\PageEnginePOC.exe
+D:\VisualStudio2017Project\PageEnginePOC\PageEnginePOC\bin\Debug\PageEnginePOC.pdb
+D:\VisualStudio2017Project\PageEnginePOC\PageEnginePOC\obj\Debug\PageEnginePOC.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017Project\PageEnginePOC\PageEnginePOC\obj\Debug\PageEnginePOC.pTitleMode.resources
+D:\VisualStudio2017Project\PageEnginePOC\PageEnginePOC\obj\Debug\PageEnginePOC.Properties.Resources.resources
+D:\VisualStudio2017Project\PageEnginePOC\PageEnginePOC\obj\Debug\PageEnginePOC.csproj.GenerateResource.cache
+D:\VisualStudio2017Project\PageEnginePOC\PageEnginePOC\obj\Debug\PageEnginePOC.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017Project\PageEnginePOC\PageEnginePOC\obj\Debug\PageEnginePOC.exe
+D:\VisualStudio2017Project\PageEnginePOC\PageEnginePOC\obj\Debug\PageEnginePOC.pdb
+D:\VisualStudio2017Project\PageEnginePOC\PageEnginePOC\obj\Debug\PageEnginePOC.pMain.resources
+D:\VisualStudio2017Project\PageEnginePOC\PageEnginePOC\obj\Debug\PageEnginePOC.pTwoTextbox.resources
+D:\VisualStudio2017Project\PageEnginePOC\PageEnginePOC\obj\Debug\PageEnginePOC.pSubSubPage.resources
+D:\VisualStudio2017Project\PageEnginePOC\PageEnginePOC\obj\Debug\PageEnginePOC.pHedgehog.resources
+D:\VisualStudio2017Project\PageEnginePOC\PageEnginePOC\obj\Debug\PageEnginePOC.pPictureViewer.resources
